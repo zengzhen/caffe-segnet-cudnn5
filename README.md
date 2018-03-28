@@ -1,3 +1,12 @@
+# Build
+Follow caffe installation guide:
+```
+cp Makefile.config.example Makefile.config
+```
+turn on cudnn
+then `make` and `make pycaffe`
+
+
 # Caffe SegNet cuDNN5
 **This is a modified version of [Caffe](https://github.com/BVLC/caffe) which supports the [SegNet architecture](http://mi.eng.cam.ac.uk/projects/segnet/)**
 

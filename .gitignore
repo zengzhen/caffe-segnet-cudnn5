@@ -1,5 +1,5 @@
 ## General
-
+*.kdev4/
 # Compiled Object files
 *.slo
 *.lo
